@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.seedcipher.app.EmojiStegoTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-09-07T14:18:59" hostname="k-System-Product-Name" time="0.596">
+  <properties/>
+  <testcase name="testEmojiStegoEmbeddingAndExtraction" classname="com.seedcipher.app.EmojiStegoTest" time="0.582"/>
+  <testcase name="testMultipleEmojiTopics" classname="com.seedcipher.app.EmojiStegoTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

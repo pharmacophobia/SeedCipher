@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SecureVault</string>
+    <string name="scramble_tab">Scramble</string>
+    <string name="unscramble_tab">Unscramble</string>
+    <string name="original_message">Original Message</string>
+    <string name="seed_word_label">Seed Word / Key</string>
+    <string name="scrambled_payload">Scrambled Payload</string>
+    <string name="scramble_button">Scramble Message</string>
+    <string name="unscramble_button">Unscramble Message</string>
+</resources>

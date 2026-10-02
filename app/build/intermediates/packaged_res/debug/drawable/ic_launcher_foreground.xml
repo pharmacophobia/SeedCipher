@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bank Roof -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,40 L54,20 L84,40 Z"/>
+    <!-- Bank Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,75 L84,75 L84,80 L24,80 Z"/>
+    <!-- Bank Columns -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,45 L32,45 L32,70 L28,70 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,45 L48,45 L48,70 L44,70 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,45 L64,45 L64,70 L60,70 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M76,45 L80,45 L80,70 L76,70 Z"/>
+</vector>

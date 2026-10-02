@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dark_bg">#020617</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">SecureVault</string>
+    <string name="original_message">Original Message</string>
+    <string name="scramble_button">Scramble Message</string>
+    <string name="scramble_tab">Scramble</string>
+    <string name="scrambled_payload">Scrambled Payload</string>
+    <string name="seed_word_label">Seed Word / Key</string>
+    <string name="unscramble_button">Unscramble Message</string>
+    <string name="unscramble_tab">Unscramble</string>
+    <style name="Theme.SecureVault" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">#0f172a</item>
+        <item name="android:navigationBarColor">#020617</item>
+    </style>
+</resources>
